@@ -1,4 +1,9 @@
 {
     "plugins": {
+        "com.chrisrm.idea.MaterialThemeUI": {
+            "dependencies": [
+                "com.intellij.modules.platform"
+            ]
+        }
     }
 }
